@@ -18,6 +18,8 @@ I used Friedman 1, 2, and 3 datasets from scikit-learn for non-linear regression
 
 ## Result
 From the results, I found that most tasks performed well for NT-5 since it was the fine-tuned model. These results illustrate that the NT-5 model could predict continuous values quite accurately in both linear and non-linear contexts.
+![image](https://github.com/SunwooKim12345/Llm_for_regression/assets/129953673/4c4e7d03-e4d9-458d-8476-70e914622a0d)
+
 
 ## Main Takeaway
 From this project, I learned that a large language model could predict numerical values for both linear and non-linear functions effectively. Additionally, fine-tuning the model significantly improves its performance. Furthermore, the success of the NT-5 model in this project demonstrates its potential applicability in predicting other complex real-world problems.
